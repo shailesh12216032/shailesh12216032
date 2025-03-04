@@ -5,7 +5,7 @@ $ git config -list
 $ git init
 $ git clone
 $ git add expt3.txt
-$ git commit -m "Add hello_world.txt"
+$ git commit -m "Add helloo_world.txt"
 $ git diff
 $ git diff --staged
 $ git diff HEAD
